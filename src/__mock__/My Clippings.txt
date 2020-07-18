@@ -1,0 +1,35 @@
+﻿Your P2K Articles (2020-03-15) (P2K)
+- Seu destaque ou posição 312-312 | Adicionado: sábado, 21 de março de 2020 15:35:52
+
+Watch the webcast recording, TDD in ES6 & React
+==========
+﻿Your P2K Articles (2020-03-15) (P2K)
+- Seu marcador ou posição 308 | Adicionado: sábado, 21 de março de 2020 15:36:39
+
+
+==========
+﻿01-Debugging-Processes (blabla@gmail.com)
+- Seu destaque ou posição 1-1 | Adicionado: domingo, 22 de março de 2020 11:14:36
+
+This chapter covers the following recipes
+==========
+﻿01-Debugging-Processes (blabla@gmail.com)
+- Seu marcador ou posição 58 | Adicionado: domingo, 22 de março de 2020 11:42:53
+
+
+==========
+﻿01-Debugging-Processes (blabla@gmail.com)
+- Sua nota ou posição 61 | Adicionado: domingo, 22 de março de 2020 11:46:41
+
+Explain how nav buttom work into the functions
+==========
+﻿01-Debugging-Processes (blabla@gmail.com)
+- Seu destaque ou posição 59-61 | Adicionado: domingo, 22 de março de 2020 11:46:41
+
+Then we'll press the step in icon again, which will take us into the  future function in the  future.js file:
+==========
+Your P2K Articles (2020-04-01) (P2K)
+- Seu destaque ou posição 57-58 | Adicionado: segunda-feira, 13 de julho de 2020 22:48:45
+
+“10 Tips for Better Redux Architecture”
+==========
